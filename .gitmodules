@@ -1,0 +1,3 @@
+[submodule "lib/famous-kenburnscontainer"]
+	path = lib/famous-kenburnscontainer
+	url = https://github.com/IjzerenHein/famous-kenburnscontainer
