@@ -13,7 +13,7 @@ Usage:
 ```
 
 ```js
-var kenBurnsContainer = FView.byId("kbc").modifier;
+var kenBurnsContainer = FView.byId("kbc").view;
 // create sequence of pan & zoom animations
 kenBurnsContainer.panAndZoom([0.0, 0.05], 1.9); // move to left-top & zoom-in
 kenBurnsContainer.delay();                      // wait a bit (use default delay)

@@ -1,7 +1,7 @@
 Package.describe({
   name: 'gadicohen:fview-kenburns',
   summary: "IjzerenHein's kenBurnsContainer packaged for famous-views",
-  version: '1.0.0',
+  version: '1.0.1',
   git: 'https://github.com/gadicc/fview-kenburns.git',
 });
 
